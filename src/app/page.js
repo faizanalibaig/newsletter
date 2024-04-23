@@ -13,5 +13,6 @@ export default function Home() {
    <main className={`bg-sky-950 h-screen w-screen flex justify-center items-center ${poppins.className}`}>
    <LeftSide />
    </main>
+
   );
 }
